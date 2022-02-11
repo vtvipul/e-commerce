@@ -1,2 +1,5 @@
 # e-commerce
-e-commerce app to learn golang, gin, mongodb
+e-commerce app to learn
+* Golang
+* Gin framework
+* MongoDB
